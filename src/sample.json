@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "title": "Fibrosis Quística",
+    "category": "Respiratorios",
+    "writer": "Someone",
+    "year": "2020",
+    "img":"https://i.ibb.co/CHykc34/fibrosisquistica.png",
+    "firstColor":"#c2a232",
+    "secondColor":"#131D75"
+  },
+  {
+    "id": "1",
+    "title": "Coronavirus",
+    "category": "Virosos",
+    "writer": "Someone",
+    "year": "2020",
+    "img":"https://i.ibb.co/VD35v6Z/corona.jpg",
+    "firstColor":"#32C264",
+    "secondColor":"#FF615C"
+  }
+]
